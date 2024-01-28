@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbarc" type="id" />
+    <item name="toolbarb" type="id" />
+    <item name="forgotpassword" type="id" />
+    <item name="imageview_profile" type="id" />
+    <item name="ic_profile" type="id" />
+    <item name="ic_email" type="id" />
+    <item name="ic_profilecreated" type="id" />
+    <item name="forgotpass" type="id" />
+</resources>

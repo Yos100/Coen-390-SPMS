@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SPMS</string>
+    <string name="home_menu_bottom">Parking</string>
+    <string name="favourites_menu_bottom">Favourites</string>
+    <string name="history_menu_bottom">History</string>
+    <string name="account_menu_bottom">Account</string>
+    <string name="welcome_text">Welcome to Smart Parking Management System!</string>
+    <string name="instruction_text">Select a desired parking location to view available spaces</string>
+    <string name="sort_by_name_toolbarItem">Sort by Name</string>
+    <string name="sort_by_availability_toolbarItem">Sort by Availability</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="space_frag_name_field">Name</string>
+    <string name="space_frag_address_field">Address</string>
+    <string name="space_frag_image_desc">Parking Location Layout Map</string>
+</resources>
